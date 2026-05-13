@@ -1,0 +1,4 @@
+[tools]
+rojo = "quenty/rojo@7.4.1-quenty-npm-canary.3"
+wally = "UpliftGames/wally@0.3.2"
+stylua = "johnnymorganz/stylua@2.4.1"
